@@ -3,7 +3,6 @@ on:
   issues:
     types: [opened]
 jobs:
-
   comment-with-api:
     runs-on: ubuntu-latest
     steps:
